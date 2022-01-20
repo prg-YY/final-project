@@ -1,0 +1,28 @@
+project plan
+project name:social-media app
+short description of project:
+techinal requirements includes :
+1. user should be able to create an account.
+2.a user should be able to log in to the app.
+3.user should be able to share pictures in the app.
+4.share picture can be liked by other users.
+5.a user should be able to create a bio with short information about them.
+
+
+describe your part, what you created in the project.
+I created this project alone.in this project, a user can create an account, and login to the app with that account.i used basic validation logic in the registration part.and in my app, 
+when the app is started, the register page will be shown first, after registered successfully, it automatically goes to login page.then when it login successfully, it goes to the homepage directly.
+the picture on the homepage can be liked by sigle clicking and disliked by double clicking.an image can be shared as a post(i wrote the function but the image is not showing up successfully.)
+
+
+
+describe how you planned the project
+firstly, I created login page and register page.then I created homepage.
+
+what was the biggest challenge of the project
+upload an image and share it , store data in the local storage, an create a user bio. i was only able to create complete upload imageand share it, but others i cant finish successfully.
+
+what do i need to learn or research?
+I need to learn about how to use data dynamically and how to use react hook , how to create local storage etc.
+i tried to create local storage but i was failed.another problem is I was confused that how to use user data dynamically,becuase, there are several users, every user has has different profile page.
+so i think I need to learn more on this specific part.
